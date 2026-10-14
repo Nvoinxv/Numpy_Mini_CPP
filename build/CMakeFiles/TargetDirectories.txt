@@ -1,3 +1,0 @@
-/home/nvoinxv/Documents/MINI_NUMPY_CPP/build/CMakeFiles/MINI_NUMPY_CPP.dir
-/home/nvoinxv/Documents/MINI_NUMPY_CPP/build/CMakeFiles/edit_cache.dir
-/home/nvoinxv/Documents/MINI_NUMPY_CPP/build/CMakeFiles/rebuild_cache.dir

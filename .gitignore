@@ -1,0 +1,96 @@
+# ================================
+# CMake Build
+# ================================
+
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# CMake generated files
+install_manifest.txt
+CTestTestfile.cmake
+Testing/
+
+
+# ================================
+# Compiled / Executable Files
+# ================================
+
+*.o
+*.obj
+*.a
+*.so
+*.so.*
+*.dll
+*.exe
+*.out
+
+
+# ================================
+# Debug / Release
+# ================================
+
+Debug/
+Release/
+debug/
+release/
+
+
+# ================================
+# IDE / Editor
+# ================================
+
+.vscode/
+.idea/
+*.code-workspace
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+
+# ================================
+# OS Files
+# ================================
+
+# Linux
+*~
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+
+# ================================
+# CMake User Files
+# ================================
+
+CMakeUserPresets.json
+
+
+# ================================
+# Logs / Temporary Files
+# ================================
+
+*.log
+*.tmp
+*.temp
+
+
+# ================================
+# Program Output
+# ================================
+
+# Uncomment if your program generates these
+# output/
+# bin/
+# data/
